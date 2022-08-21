@@ -185,7 +185,7 @@ footer{
     max-height: 20px;
 }
 
-#about p:not(#notu), #career p:not(#notu){
+#about p:not(.notu), #career p:not(.notu){
     margin-top: 10px;
 }
 
