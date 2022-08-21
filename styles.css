@@ -188,8 +188,7 @@ footer{
 #about p:not(.notu), #career p:not(.notu){
     margin-top: 10px;
 }
-
-#socials{
+.socials{
     display: flex;
     gap: 40px;
 }
